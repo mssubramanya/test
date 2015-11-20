@@ -13,6 +13,7 @@ echo "Copying project files ..."
 copy %currPath%\MainFile.py %SystemDrive%\test\Ver1
 copy %currPath%\mongo_layer.py %SystemDrive%\test\Ver1
 copy %currPath%\strings.py %SystemDrive%\test\Ver1
+copy %currPath%\users.py %SystemDrive%\test\Ver1
 copy %currPath%\setup.bat %SystemDrive%\test\Ver1
 copy %currPath%\README.txt %SystemDrive%\test\Ver1
 cd %SystemDrive%\test\Ver1
